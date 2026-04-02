@@ -1,8 +1,8 @@
-# TLE-Sheet
+# TLE-Sheet Submission Tracker
 
-A curated archive of my Codeforces solutions across the TLE sheet from `800` to `1900`.
+A curated tracker of my accepted Codeforces submissions across the TLE sheet from `800` to `1900`.
 
-The repository is organized by rating for easy navigation. The `800`, `900`, and `1000` folders contain source files directly in the repo, while the `1100` to `1900` sections in this README track my accepted Codeforces submissions for each sheet problem.
+This repository keeps the progress organized by rating and links each listed problem to my accepted submission on Codeforces.
 
 Codeforces handle: `rajat_24`
 
